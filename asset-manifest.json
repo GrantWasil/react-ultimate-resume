@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/react-ultimate-resume/static/css/main.794802cd.chunk.css",
-    "main.js": "/react-ultimate-resume/static/js/main.ae58b96c.chunk.js",
-    "main.js.map": "/react-ultimate-resume/static/js/main.ae58b96c.chunk.js.map",
+    "main.js": "/react-ultimate-resume/static/js/main.5f9256b3.chunk.js",
+    "main.js.map": "/react-ultimate-resume/static/js/main.5f9256b3.chunk.js.map",
     "runtime-main.js": "/react-ultimate-resume/static/js/runtime-main.24935a95.js",
     "runtime-main.js.map": "/react-ultimate-resume/static/js/runtime-main.24935a95.js.map",
-    "static/js/2.5653a0b0.chunk.js": "/react-ultimate-resume/static/js/2.5653a0b0.chunk.js",
-    "static/js/2.5653a0b0.chunk.js.map": "/react-ultimate-resume/static/js/2.5653a0b0.chunk.js.map",
+    "static/js/2.98817772.chunk.js": "/react-ultimate-resume/static/js/2.98817772.chunk.js",
+    "static/js/2.98817772.chunk.js.map": "/react-ultimate-resume/static/js/2.98817772.chunk.js.map",
     "index.html": "/react-ultimate-resume/index.html",
-    "precache-manifest.dc8e668f1a584dd63024c8a0b998d9ad.js": "/react-ultimate-resume/precache-manifest.dc8e668f1a584dd63024c8a0b998d9ad.js",
+    "precache-manifest.d67115bc12160be15c9b2400308c1c32.js": "/react-ultimate-resume/precache-manifest.d67115bc12160be15c9b2400308c1c32.js",
     "service-worker.js": "/react-ultimate-resume/service-worker.js",
     "static/css/main.794802cd.chunk.css.map": "/react-ultimate-resume/static/css/main.794802cd.chunk.css.map",
-    "static/js/2.5653a0b0.chunk.js.LICENSE.txt": "/react-ultimate-resume/static/js/2.5653a0b0.chunk.js.LICENSE.txt",
+    "static/js/2.98817772.chunk.js.LICENSE.txt": "/react-ultimate-resume/static/js/2.98817772.chunk.js.LICENSE.txt",
     "static/media/global.css": "/react-ultimate-resume/static/media/AvenirNext-UltraLightItalic.3bb556b6.ttf",
     "static/media/add.f93b93eb.svg": "/react-ultimate-resume/static/media/add.f93b93eb.svg",
     "static/media/arrow-right.8ab55a6c.svg": "/react-ultimate-resume/static/media/arrow-right.8ab55a6c.svg",
@@ -19,7 +19,6 @@
     "static/media/edit.fd1a578c.svg": "/react-ultimate-resume/static/media/edit.fd1a578c.svg",
     "static/media/eye.7c6a3e38.svg": "/react-ultimate-resume/static/media/eye.7c6a3e38.svg",
     "static/media/facebook.66b523aa.svg": "/react-ultimate-resume/static/media/facebook.66b523aa.svg",
-    "static/media/github.7ebc2e3b.svg": "/react-ultimate-resume/static/media/github.7ebc2e3b.svg",
     "static/media/home.06ecb095.svg": "/react-ultimate-resume/static/media/home.06ecb095.svg",
     "static/media/keyboard_arrow_down.7971a1d6.svg": "/react-ultimate-resume/static/media/keyboard_arrow_down.7971a1d6.svg",
     "static/media/link.4d0d8424.svg": "/react-ultimate-resume/static/media/link.4d0d8424.svg",
@@ -39,8 +38,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.24935a95.js",
-    "static/js/2.5653a0b0.chunk.js",
+    "static/js/2.98817772.chunk.js",
     "static/css/main.794802cd.chunk.css",
-    "static/js/main.ae58b96c.chunk.js"
+    "static/js/main.5f9256b3.chunk.js"
   ]
 }
